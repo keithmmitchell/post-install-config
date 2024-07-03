@@ -248,6 +248,9 @@ Create three more Topics:
 
 <br />
 
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/7c458596-5d7b-44dd-846d-1626cb3bd6b5)
+
+That brings us to the end of Part 2 of this lab.  Please go to https://github.com/keithmmitchell/ticket-lifecycle for the final part. 
 
 
 
