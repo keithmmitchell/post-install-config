@@ -139,11 +139,12 @@ In the Account Tab enter the following details:
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/ec0b01fc-4260-4616-b1a7-d18b7b60ea3b)
 
-In the Access tab select System Administrators and Supreme Admin in the Primary Department section.
+In the Access tab select System Administrators and Supreme Admin in the Primary Department section.  In Extended Access assign the Support department and Supreme Admin group.
 
 <br />
 
-![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/dff9a08f-c947-43cc-aca1-1ef6a71c8285)
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/dfada322-eb26-405c-ae2e-c9f14bd45ec0)
+
 
 In the Teams tab select Level II support then click Add then Create.
 
