@@ -228,6 +228,26 @@ Enter the following:
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/f1d0e2e4-6e91-4ec1-a710-1bb062c812f0)
 
+Next the Help Topics need to be configured.  On the Admin Panel in the Manage tab click Help Topics and then Add New Help Topic.
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/0fe2e84c-5659-443f-a471-3c6511461fe2)
+
+Enter "Business Critical Outage" for the topic name then click Add.
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/92f6931c-f9f4-48f2-af44-ecb899c9498b)
+
+Create three more Topics:
+
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+<br />
+
 
 
 
