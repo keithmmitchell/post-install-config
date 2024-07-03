@@ -182,6 +182,53 @@ From there go to the Users tab and select Add User.
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/ab6e7fa7-efeb-4410-a352-bf09b5905fda)
 
+Enter the email address Karen@osticket.com and the Full Name Karen Karen then click Add User.
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/f678cc7e-e375-4fd3-8c56-591d0e8166cc)
+
+Do the same again but this time add the user Ken.
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/0e74eb9d-2fee-4a05-a4d2-c3c2c1074870)
+
+Next the Service Level Agreements need to be configured.  Go back to the Admin panel, click the Manage tab, select SLA then click Add New SLA Plan.
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/573d60dc-c98f-4135-98d2-32696aac717d)
+
+Enter the following:
+
+- Name SEV-A
+- Grace period: 1 hour
+- Schedule:24/7
+
+Then click Add Plan
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/085da1ba-36f3-479f-a166-1ea9fb3e0cef)
+
+Create another two plans with the following:
+
+- Name SEV-B
+- Grace period: 4 hours
+- Schedule:24/7
+
+Enter the following:
+
+- Name SEV-C
+- Grace period: 8 hours
+- Schedule: Mon - Fri
+
+<br />
+
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/f1d0e2e4-6e91-4ec1-a710-1bb062c812f0)
+
+
 
 
 
