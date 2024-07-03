@@ -155,7 +155,7 @@ In the Teams tab select Level II support then click Add then Create.
 Next create a new Agent with the following details:
 
 - Name: John Doe
-- Email Address: jane.doe@osticket.com
+- Email Address: john.doe@osticket.com
 - Username: john.doe
 - Password: Password1
 
@@ -163,11 +163,12 @@ Next create a new Agent with the following details:
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/22484946-8617-4631-b726-21c9a2498cc1)
 
-In the Access tab select Support and View only under Primary Department and Support for Extended Access then Create.
+In the Access tab select Support and Supreme Admin under Primary Department and Support for Extended Access then Create.
 
 <br />
 
-![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/800f3a71-7ca9-44b2-bb27-f82c5d9a9c00)
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/d1c38e56-7cc9-453b-a509-5c99544c0f2a)
+
 
 The next step is to create users to give support to.  To do this we need to go to the Agent panel.
 
