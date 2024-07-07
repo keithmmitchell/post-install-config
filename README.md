@@ -172,15 +172,16 @@ In the Access tab select Support and Supreme Admin under Primary Department and 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/d1c38e56-7cc9-453b-a509-5c99544c0f2a)
 
 
-The next step is to create users to give support to.  To do this we need to go to the Agent panel.
+The next step is to create users to provide support for.  To do this we need to go to the Agent panel.
 
 <br />
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/2c6c58bd-ad3b-4e2f-a0d1-c3a250119b4f)
 
+
 From there go to the Users tab and select Add User.
 
-<br /?
+<br />
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/ab6e7fa7-efeb-4410-a352-bf09b5905fda)
 
