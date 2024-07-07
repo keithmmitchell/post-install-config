@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-The first step is to create a Supreme Admin role and assign them Full Control access.  To do this click on Admin Panel.
+The first step is to create a Supreme Admin role and assign it Full Control access.  To do this click on Admin Panel.
 
 <br />
 
