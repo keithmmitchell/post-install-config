@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-The first step is to create a Supreme Admin role and assign it Full Control access.  To do this click on Admin Panel.
+The first step is to create a Supreme Admin role and assign it Full Control access.  To do this, click on Admin Panel.
 
 <br />
 
@@ -64,23 +64,25 @@ In the Permissions tab select all permissions in the Tickets section.
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/cbd51efa-bd19-4461-8f29-a9fff144a001)
 
-Then assign all permissions in the task section.
+Then assign all permissions in the Tasks section.
 
 <br />
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/e1244411-6986-44ab-b245-0746d25528d4)
 
-Then finally assign all permissions in the knowledgebase and click Add Role.
+Then finally assign all permissions in the Knowledgebase and click Add Role.
 
 <br />
 
-![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/e8d6e78e-fed6-4aba-91d3-62f70f0d02c0
+![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/e8d6e78e-fed6-4aba-91d3-62f70f0d02c0)
+
 
 The next step is to add a department so click on Departments.
 
 <br />
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/eb0fb9bc-5fe2-46c1-ad7f-a5e974db52c2)
+
 
 There are already two departments created already but we'll create the System Administrators department.
 
@@ -116,7 +118,7 @@ Level I Support is already created so click on Add New Teams and we will create 
 
 ![image](https://github.com/keithmmitchell/post-install-config/assets/174253055/44cdf3fd-5bb1-4363-966a-248465ca8a31)
 
-In the Members tab I add myself to the team then click Create Team.
+In the Members tab, I add myself to the team then click Create Team.
 
 <br />
 
